@@ -76,4 +76,5 @@ export default{
         selection: 1,
     }),
 };
+
 </script>
