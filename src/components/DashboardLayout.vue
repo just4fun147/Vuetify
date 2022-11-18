@@ -45,10 +45,7 @@
                 drawer: false,
                 group: null,
                 items: [
-                    {title: "Dashboard", to:"/"},
-                    {title: "Guided", to:"/gd"},
-                    {title: "Activity Unguided", to:"/ugd"},
-                    {title: "Tugas", to:"/tgs"},
+                    {title: "Dashboard", to:"/"}
                 ],
             };
         },
